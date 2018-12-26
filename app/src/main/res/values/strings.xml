@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizAppV1</string>
+    <string name="christmas_s_quiz">Christmas\'s Quiz</string>
+    <string name="question_1">1. What gifts did the three kings take to baby Jesus? (3 choices).</string>
+    <string name="a_frankincense">A. Frankincense.</string>
+    <string name="b_gold">B. Gold.</string>
+    <string name="c_bread">C. Bread.</string>
+    <string name="d_myrrh">D. Myrrh.</string>
+    <string name="question_2">2. To celebrate Christmas, some people hang these on their house and on their Christmas tree.</string>
+    <string name="fish">Fish.</string>
+    <string name="old_socks">Old socks.</string>
+    <string name="christmas_lights">Christmas lights.</string>
+    <string name="fruitcakes">Fruitcakes.</string>
+    <string name="question_3">3. What colour is Santa\'s belt?</string>
+    <string name="question_4">4. What are two other names for Santa Claus? (2 choices).</string>
+    <string name="zorro">Zorro.</string>
+    <string name="kris_kringle">Kris Kringle.</string>
+    <string name="saint_nick">Saint Nick.</string>
+    <string name="chuck_norris">Chuck Norris.</string>
+    <string name="answer_here">Answer Here</string>
+    <string name="question_5">5. Where does Santa usually land his sleigh?</string>
+    <string name="at_the_airport">At the airport.</string>
+    <string name="in_the_bath_tub">In the bath tub.</string>
+    <string name="in_a_christmas_tree">In a Christmas tree.</string>
+    <string name="on_the_roof">On the roof.</string>
+    <string name="question_6">6. When was Christmas declared as a federal holiday in the United States?</string>
+    <string name="_6_correct_answer">/6 correct answer</string>
+    <string name="check">Check</string>
+</resources>
